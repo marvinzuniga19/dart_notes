@@ -1,10 +1,10 @@
 void main(){
 
-  final String pokemon = 'Charmander';
-  final int hp = 100;
-  final bool isAlive = true;
+  final String pokemon = 'Charmander'; // String
+  final int hp = 100; // Entero
+  final bool isAlive = true;  // Booleano
   final List<String> abilities = ['impostor']; // Lista <string> para avisar que clase de datos contendra la lista
-  final  sprite = <String> ['Ditto/front.png']; 
+  final sprite = <String> ['Ditto/front.png']; 
 
 // Dynamic == null (Es nulo)
 
